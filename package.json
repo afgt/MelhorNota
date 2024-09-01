@@ -4,12 +4,12 @@
     "description": "A simple webpage for Netlify deployment",
     "main": "index.html",
     "scripts": {
-      "build": "echo 'No build step necessary'",
-      "start": "serve ."
+        "build": "echo 'No build step necessary'",
+        "start": "serve ."
     },
     "author": "",
     "license": "MIT",
     "devDependencies": {
-      "serve": "^14.2.0"
+        "serve": "^14.2.3"
     }
-  }
+}
