@@ -1,0 +1,15 @@
+{
+    "name": "MelhorNota",
+    "version": "1.0.0",
+    "description": "A simple webpage for Netlify deployment",
+    "main": "index.html",
+    "scripts": {
+      "build": "echo 'No build step necessary'",
+      "start": "serve ."
+    },
+    "author": "",
+    "license": "MIT",
+    "devDependencies": {
+      "serve": "^14.2.0"
+    }
+  }
